@@ -1,6 +1,8 @@
-# AJAX Practice
+![](http://terezowens-com-uploads.s3.amazonaws.com/2013/08/2-karl.gif)
 
-Want to become more comfortable with working with a singular view that manages data from two separate routes, controllers, and actions.
+# Stockton to Malone
+
+I need to improve my rails / ajax skills. Working with a singular view that manages data from events, separate routes, controllers, and actions.
 
 ## Concepts
 
